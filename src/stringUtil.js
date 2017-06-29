@@ -1,8 +1,7 @@
 let stringUtil = {};
 
 stringUtil.firstWord = function(text) {
-  let textWords = text.split(" ");
-  return textWords[0];
+  return text.split(" ")[0];
 }
 
 module.exports = stringUtil;
