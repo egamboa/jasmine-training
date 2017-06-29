@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-training",
+  "version": "1.0.0",
+  "description": "jasmine-training",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egamboa/jasmine-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egamboa/jasmine-training/issues"
+  },
+  "homepage": "https://github.com/egamboa/jasmine-training#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
