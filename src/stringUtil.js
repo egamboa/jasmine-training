@@ -1,7 +1,7 @@
 let stringUtil = {};
 
 stringUtil.firstWord = function(text) {
-  return text.split(" ")[0];
+  return this.nthWord(text, 1);
 }
 
 stringUtil.nthWord = function(text, i) {
